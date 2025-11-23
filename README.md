@@ -2,7 +2,7 @@
 ====
 
 
-[📥 Скачать EXE:]([https://github.com/username/repo/releases](https://github.com/mangomalinoviy/TwitchLogDownloader/releases/))
+[📥 Скачать EXE](https://github.com/mangomalinoviy/TwitchLogDownloader/releases/)
 ===
 
 
