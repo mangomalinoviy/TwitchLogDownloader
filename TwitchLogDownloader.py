@@ -64,12 +64,10 @@ def programm():
 
     year = startYear
     month = startMonth
-    print()
     if isinstance(startDay,int):
         day = startDay
     else:
         day = ""
-    print(year,month,startDay)
 
 
     if len(endPeriod) > 0:
