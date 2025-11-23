@@ -1,8 +1,8 @@
 Эта программа скачивает запрашиваемые логи сообщений с сайта https://logs.zonian.dev и создает txt-файл с этими логами.
 ====
 
-📥 Скачать EXE:
-https://github.com/mangomalinoviy/TwitchLogDownloader/releases/
+
+[📥 Скачать EXE:]([https://github.com/username/repo/releases](https://github.com/mangomalinoviy/TwitchLogDownloader/releases/))
 ===
 
 
